@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Cybersecurity and Cloud Engineering</h3>
 
 <p align="center">
-  <img src="banner.jpg" alt="Banner" width="100%" />
+  <img src="banner.gif" alt="Banner" width="100%" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhadi-zertal&label=Profile%20views&color=0e75b6&style=flat" alt="elhadi-zertal" /> </p>
