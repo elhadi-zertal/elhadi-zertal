@@ -49,7 +49,6 @@
     <td align="center" width="70"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br/>React</a></td>
   </tr>
   <tr>
-    <td align="center" width="70"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="40" height="40"/><br/>Networking</td>
     <td align="center" width="70"><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br/>Tailwind</a></td>
     <td align="center" width="70"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TypeScript</a></td>
   </tr>
